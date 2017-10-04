@@ -9,7 +9,7 @@
 - En principio elegimos una unica tecnología para backend
   Fue desarrollada en Symfony (PHP)
 
-  [Descripcion backend](backen-symfony.md)
+  [Descripcion backend](backend-symfony.md)
 
   [Url github](https://github.com/arqsoft-grupo1/backend)
 
